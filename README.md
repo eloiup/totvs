@@ -32,3 +32,6 @@ Submission
 ####################################################################################
 
 The jupyter notebook file contain the parsing, analysis and modelling of the problem.
+
+If interested on running the notebook, it was set on python=2.7 anaconda virtual env.
+The only Library necessary to install is lightgbm
